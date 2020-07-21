@@ -1,0 +1,10 @@
+D:\pong\pong\obj\Debug\ResolveAssemblyReference.cache
+D:\pong\pong\bin\Debug\pong.exe
+D:\pong\pong\bin\Debug\pong.pdb
+D:\pong\pong\obj\Debug\pong.exe
+D:\pong\pong\obj\Debug\pong.pdb
+E:\pong\pong\obj\Debug\pong.exe
+E:\pong\pong\obj\Debug\pong.pdb
+E:\pong\pong\bin\Debug\pong.exe
+E:\pong\pong\bin\Debug\pong.pdb
+E:\pong\pong\obj\Debug\ResolveAssemblyReference.cache
